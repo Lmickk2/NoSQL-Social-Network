@@ -4,6 +4,8 @@
 
 - Using NoSQL, this application displays the usage of the backend routes to operate multiple features within a social networking application
 
+![](https://github.com/Lmickk2/NoSQL-Social-Network/blob/main/NoSQL.gif)
+
 ## Usage
 
 - In the command line, run "npm install" to install necessary dependencies.
