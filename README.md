@@ -12,6 +12,19 @@
 
 - Test all GET, POST, and DELETE routes in Insomnia.
 
+- Here are all endpoints to test:
+
+- "/"
+
+- "/:id" GET users, DELETE users
+
+- "/:userId/friends/:friendId" POST friend, DELETE friend
+
+- "/:thoughtId" GET single thought, DELETE single thought
+
+- "/:thoughtId/reactions" POST reaction
+
+- "/:thoughtId/reactions/:reactionId" DELETE reaction
 
 ## Demo
 
